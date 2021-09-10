@@ -1,4 +1,4 @@
-const insieme = ['gianna', 'aldo', 'xena', 'franca', 'kamala', 'ottavio', 'fabio'];
+const insieme = ['gianna', 'aldo', 'xena', 'franca', 'kamala', 'ottavio', 'fabio', 'saul'];
 
 let elementiDaAggiungere = arrayFromIndex(insieme,3,5);
 console.log(elementiDaAggiungere);
